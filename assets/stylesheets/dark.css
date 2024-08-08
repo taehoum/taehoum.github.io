@@ -783,7 +783,7 @@ blockquote {
   padding: 2rem;
   background-color: #272727;
   border-top: 3px solid hsl(204, 68%, 52%);
-  border-bottom: 3px solid hwb(204, 68% 52%);
+  border-bottom: 3px solid hsl(204, 68% 52%);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); }
   .about .container-face {
     margin-bottom: 1rem;
