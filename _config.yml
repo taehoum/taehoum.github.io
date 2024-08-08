@@ -9,7 +9,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Taeho Um
 tagline: Student
-about-description: YongMoon Highschool Student # Add Discription
+about-description: YongMoon Highschool Student "Taeho Um"# Add Discription
 pic: 냥.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
