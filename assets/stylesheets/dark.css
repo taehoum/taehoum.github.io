@@ -771,10 +771,10 @@ blockquote {
   .page-heading .page-title {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    font-size: 5rem;
+    font-size: 7rem;
     line-height: 1.1;
     text-align: center;
-    color: #ffffff; }
+    color: #851c1c; }
 
 .about {
   margin: 0 1rem;
@@ -803,7 +803,7 @@ blockquote {
       margin-top: 0.9rem;
       background-color: #323232; }
   .about img.face {
-    border-radius: 50%;
+    border-radius: 30%;
     width: 200px;
     max-width: 100%; }
 
