@@ -774,7 +774,9 @@ blockquote {
     font-size: 7rem;
     line-height: 1.1;
     text-align: center;
-    color: #851c1c; }
+    color: #851c1c; 
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: yellow;}
 
 .about {
   margin: 0 1rem;
