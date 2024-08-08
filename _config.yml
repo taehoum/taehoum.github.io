@@ -15,7 +15,7 @@ pic: cat.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide t
 # Contact links
 email: taeho_um@naver.com # Add your Email address
 phone: 010 2887 5612 # Add your Phone number
-github: https://github.com/taehoum # Add your Github handle
+github: github.com/taehoum # Add your Github handle
 instagram: '@me._.teo' # Add your Twitter handle
 
 # Tracker
